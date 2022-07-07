@@ -1,3 +1,3 @@
 # demo
 demo1
-deneme not
+deneme nott
